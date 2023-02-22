@@ -95,7 +95,7 @@ GitHub: [@Olga-creator](https://github.com/Olga-creator?tab=repositories)
 Project Link: https://github.com/Olga-creator/SQL-Python_ebookstore
 
 ## Special Thanks <a name="paragraph4"></a>
-Thanks to HyperionDev for this great learning experience and for guiding me on my path as a software developer
+Thanks to DfE and HyperionDev for this great learning experience and for guiding me on my path as a software developer
 
 ## 🤝 Contributing <a name="paragraph5"></a>
 Contributions, issues and feature requests are welcome!
